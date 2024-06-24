@@ -141,14 +141,14 @@ p.tagline {
   filter:alpha(opacity=100);  /* IE 5-7 */
 }
 
-.current-section {
+.current-section { /*BORDE BARRA SUPERIOR*/
   position: fixed;
   top: 0;
   left: 50%;
   width: 693px;
   margin-left: -352px;
-  background: #222;
-  border: 5px solid #444;
+  background: #CE583C;
+  border: 5px solid #FF3B3D;
   color: #fff;
   opacity: 0;
   visibility: hidden;
