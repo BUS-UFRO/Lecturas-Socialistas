@@ -10,13 +10,13 @@ body {
 }
 
 a {
-  color: #56E39F;
+  color: #22CE7B; /*LINKS*/
   text-decoration: none;
   transition: opacity ease-in-out 0.3s;
   -webkit-transition: opacity ease-in-out 0.3s;  /* Safari <=6.1, Android <= 4.3 */
 }
 
-a:hover {
+a:hover { /*LINKS CUANDO PASAS EL MOUSE ENCIMA*/
   text-decoration: underline;
   color: #96EEC3;
 }
@@ -40,7 +40,7 @@ h1.title {
 }
 
 #container {
-  border: 1px solid #82442E;
+  border: 1px solid #CE583C;
   background: #ddd url(../images/pattern.png);
   box-shadow: 0 0 5px #b1b1b1;
 }
